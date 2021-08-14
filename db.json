@@ -1,6 +1,6 @@
   
 {
-  "students": {
+  "students": [
     { 
       "id" : 1,
       "record_book_number" : 1800218,
@@ -9,5 +9,5 @@
       "specialty_code" : "09.03.01",
       "year" : 3
     }
-}
+    ]
 }
