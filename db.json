@@ -9,5 +9,39 @@
       "specialty_code" : "09.03.01",
       "year" : 3
     }
-    ]
+    ],
+    "schedule": [
+	{
+		"09.03.01-3": [
+			{
+				"dayName": "MONDAY",
+				"lectures": [
+						{
+						"lectureName": "Физика",
+						"teacher": "Иванов Иван Иванович"
+						}
+					]
+				},
+          			{
+				"dayName": "MONDAY",
+				"lectures": [
+						{
+						"lectureName": "Физика",
+						"teacher": "Иванов Иван Иванович"
+						}
+					]
+				},
+          			{
+				"dayName": "MONDAY",
+				"lectures": [
+						{
+						"lectureName": "Физика",
+						"teacher": "Иванов Иван Иванович"
+						}
+					]
+				}
+			]
+	
+		}
+	]
 }
