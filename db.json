@@ -12,35 +12,131 @@
     ],
     "schedule": [
 	{
-		"09.03.01-3": [
-			{
-				"dayName": "MONDAY",
-				"lectures": [
-						{
-						"lectureName": "Физика",
-						"teacher": "Иванов Иван Иванович"
-						}
-					]
-				},
-          			{
-				"dayName": "MONDAY",
-				"lectures": [
-						{
-						"lectureName": "Физика",
-						"teacher": "Иванов Иван Иванович"
-						}
-					]
-				},
-          			{
-				"dayName": "MONDAY",
-				"lectures": [
-						{
-						"lectureName": "Физика",
-						"teacher": "Иванов Иван Иванович"
-						}
-					]
-				}
-			]
+"09.03.01-3": [
+      {
+        "dayName": "MONDAY",
+        "lectures": [
+          {
+            "lectureName": "Теория систем",
+            "teacher": "Иванов Петр Алексеевич",
+			"startTime":  "9:00",
+            "endTime":  "10:35",
+			"classroom": "100",
+          },
+		  {
+            "lectureName": "Физика",
+            "teacher": "Витиевашко Андрей Феликсович",
+			"startTime":  "10:45",
+            "endTime":  "12:20",
+			"classroom": "405а",
+          },
+        ]
+      },
+	  {
+        "dayName": "TUESDAY",
+        "lectures": [
+          {
+            "lectureName": "История создания университетов",
+            "teacher": "Галушко Мария Владимировна",
+			"startTime":  "9:00",
+            "endTime":  "10:30",
+			"classroom": "106",
+          },
+		  {
+            "lectureName": "Теория программирования",
+            "teacher": "Керефов Владимир Петрович",
+			"startTime":  "13:00",
+            "endTime":  "14:35",
+			"classroom": "248",
+          },
+		  		  {
+            "lectureName": "Иностранный язык",
+            "teacher": "Шелушенко Евгения Васильевна",
+			"startTime":  "14:50",
+            "endTime":  "16:20",
+			"classroom": "140",
+          },
+        ]
+      },
+	  {
+        "dayName": "WEDNESDAY",
+        "lectures": [
+          {
+            "lectureName": "Физика",
+            "teacher": "Витиевашко Андрей Феликсович",
+			"startTime":  "9:00",
+            "endTime":  "10:30",
+			"classroom": "100",
+          },
+		  {
+            "lectureName": "Базы данных",
+            "teacher": "Корабельникова Галина Амировна",
+			"startTime":  "10:45",
+            "endTime":  "12:20",
+			"classroom": "450",
+          },
+		  {
+            "lectureName": "Моделирование лабораторных работ",
+            "teacher": "Витиевашко Андрей Феликсович",
+			"startTime":  "13:00",
+            "endTime":  "14:35",
+			"classroom": "248",
+          },
+		  {
+            "lectureName": "Иностранный язык",
+            "teacher": "Шелушенко Евгения Васильевна",
+			"startTime":  "14:50",
+            "endTime":  "16:20",
+			"classroom": "140",
+		  }
+        ]
+      },
+	  {
+        "dayName": "THURSDAY",
+        "lectures": [
+		  {
+            "lectureName": "Теория систем",
+            "teacher": "Иванов Петр Алексеевич",
+			"startTime":  "9:00",
+            "endTime":  "10:35",
+			"classroom": "100",
+          },
+          {
+            "lectureName": "История создания университетов",
+            "teacher": "Галушко Мария Владимировна",
+			"startTime":  "13:00",
+            "endTime":  "14:35",
+			"classroom": "106",
+          },
+		  {
+            "lectureName": "Теория программирования",
+            "teacher": "Керефов Владимир Петрович",
+			"startTime":  "14:50",
+            "endTime":  "16:20",
+			"classroom": "248",
+          },
+        ]
+      },
+	  {
+        "dayName": "FRIDAY",
+        "lectures": [
+		  {
+            "lectureName": "Моделирование лабораторных работ",
+            "teacher": "Витиевашко Андрей Феликсович",
+			"startTime":  "9:00",
+            "endTime":  "10:35",
+			"classroom": "248",
+          },
+		  {
+            "lectureName": "Иностранный язык",
+            "teacher": "Шелушенко Евгения Васильевна",
+			"startTime":  "14:50",
+            "endTime":  "16:20",
+			"classroom": "140",
+		  }
+        ]
+      },
+    ]
 	
 		}
 	]
