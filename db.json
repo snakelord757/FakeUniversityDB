@@ -20,14 +20,16 @@
             					"teacher": "Иванов Петр Алексеевич",
 								"startTime":  "9:00",
             					"endTime":  "10:35",
-								"classroom": "100"
+								"classroom": "100",
+                              	"instituteId": "1"
 							},
                   			{
                             	"lectureName": "Физика",
             					"teacher": "Витиевашко Андрей Феликсович",
 								"startTime":  "10:45",
             					"endTime":  "12:20",
-								"classroom": "405а"
+								"classroom": "405а",
+                              	"instituteId": "1"
                   			}
 					]
 				},
@@ -39,21 +41,24 @@
            						"teacher": "Галушко Мария Владимировна",
 								"startTime":  "9:00",
        			    			"endTime":  "10:30",
-								"classroom": "106"
+								"classroom": "106",
+                              	"instituteId": "1"
           					},
 		  					{
             					"lectureName": "Теория программирования",
             					"teacher": "Керефов Владимир Петрович",
 								"startTime":  "13:00",
             					"endTime":  "14:35",
-								"classroom": "248"
+								"classroom": "248",
+                              	"instituteId": "3"
           					},
 		  					{
             					"lectureName": "Иностранный язык",
            						"teacher": "Шелушенко Евгения Васильевна",
 								"startTime":  "14:50",
             					"endTime":  "16:20",
-								"classroom": "140"
+								"classroom": "140",
+                              	"instituteId": "2"
           					}
 					]
 
@@ -66,28 +71,32 @@
             					"teacher": "Витиевашко Андрей Феликсович",
 								"startTime":  "9:00",
             					"endTime":  "10:30",
-								"classroom": "100"
+								"classroom": "100",
+                          		"instituteId": "8"
           				},
 		  				{
             					"lectureName": "Базы данных",
             					"teacher": "Корабельникова Галина Амировна",
 								"startTime":  "10:45",
             					"endTime":  "12:20",
-								"classroom": "450"
+								"classroom": "450",
+                          		"instituteId": "1"
           				},
 		  				{
             					"lectureName": "Моделирование лабораторных работ",
             					"teacher": "Витиевашко Андрей Феликсович",
 								"startTime":  "13:00",
             					"endTime":  "14:35",
-								"classroom": "248"
+								"classroom": "248",
+                          		"instituteId": "2"
           				},
 		  				{
             					"lectureName": "Иностранный язык",
               					"teacher": "Шелушенко Евгения Васильевна",
 								"startTime":  "14:50",
             					"endTime":  "16:20",
-								"classroom": "140"
+								"classroom": "140",
+                          		"instituteId": "3"
 		  				}
         			]
       		  	},
@@ -99,21 +108,24 @@
             					"teacher": "Иванов Петр Алексеевич",
 								"startTime":  "9:00",
             					"endTime":  "10:35",
-								"classroom": "100"
+								"classroom": "100",
+                          		"instituteId": "1"
           				},
          				{
             					"lectureName": "История создания университетов",
             					"teacher": "Галушко Мария Владимировна",
 								"startTime":  "13:00",
             					"endTime":  "14:35",
-								"classroom": "106"
+								"classroom": "106",
+                          		"instituteId": "2"
           				},
 		  				{
             					"lectureName": "Теория программирования",
             					"teacher": "Керефов Владимир Петрович",
 								"startTime":  "14:50",
             					"endTime":  "16:20",
-								"classroom": "248"
+								"classroom": "248",
+                          		"instituteId": "3"
           				}
         			]
       			},
@@ -125,14 +137,16 @@
             					"teacher": "Витиевашко Андрей Феликсович",
 								"startTime":  "9:00",
             					"endTime":  "10:35",
-								"classroom": "248"
+								"classroom": "248",
+                          		"instituteId": "8"
           				},
 		  				{
             					"lectureName": "Иностранный язык",
             					"teacher": "Шелушенко Евгения Васильевна",
 								"startTime":  "14:50",
             					"endTime":  "16:20",
-								"classroom": "140"
+								"classroom": "140",
+                          		"instituteId": "3"
 		  				}
         			]
       			}
